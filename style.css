@@ -1,0 +1,11 @@
+section{
+    max-width: 1320px;
+    margin: 0px auto;
+}
+
+header,footer,main{
+    padding: 0px 20px;
+}
+
+
+
