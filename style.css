@@ -1,11 +1,18 @@
-section{
-    max-width: 1320px;
-    margin: 0px auto;
-}
 
-header,footer,main{
+header,footer,section{
     padding: 0px 20px;
 }
 
+.products{
+    width: 100% !important;
+}
 
 
+.price-card-1{
+background: linear-gradient(109.16deg, #F8CCFB 1.27%, #ACD2FD 100%);
+}
+
+
+.price-card-2{
+background: linear-gradient(109.16deg, #FFF9F4 1.27%, #F9DF8A 100%);
+}
