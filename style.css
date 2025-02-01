@@ -16,3 +16,10 @@ background: linear-gradient(109.16deg, #F8CCFB 1.27%, #ACD2FD 100%);
 .price-card-2{
 background: linear-gradient(109.16deg, #FFF9F4 1.27%, #F9DF8A 100%);
 }
+
+
+.pet-food{
+    background-image: url(img/pet-food.jpg);
+    background-position: center;
+    background-size: cover;
+}
